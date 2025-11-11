@@ -8,8 +8,8 @@ baseurl: "/PDF-Processor-For-Lawyers-Public"
 theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
 
-# Color scheme
-color_scheme: blue
+# Color scheme (light or dark)
+color_scheme: light
 
 # Logo (optional - can be added later)
 # logo: "/assets/images/logo.png"
